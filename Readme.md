@@ -1,5 +1,5 @@
 
-# Social Media Feed Generation Algorithm
+# Social Media Engine and Feed Simulator
 
 ## Project Overview
 
@@ -16,8 +16,7 @@ If you have added a GUI to this project, please drop a pull request.
 4. [Code Explanation](#code-explanation)
 5. [Tech Stack](#tech-stack)
 6. [How the Components Work Together](#how-the-components-work-together)
-7. [Conclusion](#conclusion)
-8. [Credits](#credits)
+7. [Credits](#credits)
 
 ## Features
 
@@ -61,8 +60,6 @@ The project is divided into several classes that handle different aspects of the
 ## Tech Stack
 
 - **Programming Language**: C++
-- **IDE**: CLion, Visual Studio
-- **Version Control**: Git, GitHub
 - **Build System**: CMake
 
 ## How the Components Work Together
